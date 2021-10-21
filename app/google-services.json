@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644353600748",
+    "project_id": "userapp-test-01",
+    "storage_bucket": "userapp-test-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644353600748:android:205b94e7d99508c0e089c9",
+        "android_client_info": {
+          "package_name": "com.lafin.test01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644353600748-mnldtc4ua71v97t2gcs437rmo1adhthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZtPvFUsSlElS2ZIYP4Em_DOjjn5udN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644353600748-mnldtc4ua71v97t2gcs437rmo1adhthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
